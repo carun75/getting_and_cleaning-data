@@ -1,4 +1,11 @@
-subject activity 
+
+Data Labels and their meanings for tidy.txt
+
+subject- Identifier for the subject
+activity- The actvity type performed
+
+Readings by the fit bit
+
 tBodyAccMeanX 
 tBodyAccMeanY 
 tBodyAccMeanZ 
